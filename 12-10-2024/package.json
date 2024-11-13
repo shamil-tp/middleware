@@ -1,0 +1,16 @@
+{
+  "name": "apptest",
+  "version": "1.0.0",
+  "description": "app containing middle wares",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "shamil",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
